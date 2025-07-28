@@ -69,4 +69,4 @@ Designed by **Kartik Thapa** under the guidance of **Dr. Menka Yadav**, during a
 ## 📬 Contact
 
 Feel free to reach out for collaboration or academic discussion:  
-📧 kartik@example.com *(replace with your actual email)*
+📧 kartikthapa3107@gmail.com
